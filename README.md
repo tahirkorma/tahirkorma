@@ -8,6 +8,8 @@ Welcome to my GitHub profile! I'm a Data Science enthusiast passionate about tur
 - **Languages:** Python, SQL, R
 - **ML & DS Tools:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, NLTK, Statsmodels
 - **ML Techniques:** Regression, Classification, Clustering, Causal Inference, NLP
+- **Deep Learning & Generative AI:** PyTorch, Keras, LLMs, RAG systems
+- **AI Frameworks:** LangChain, LangGraph, Agentic AI
 - **Web & Deployment:** Streamlit, Flask, Pickle, Git/GitHub
 - **Other Tools:** Jupyter, VS Code, Google Colab, Excel, Tableau
 
