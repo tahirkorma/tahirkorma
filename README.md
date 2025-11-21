@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Tahir Korma!
 
-Welcome to my GitHub profile! I'm a data science enthusiast passionate about turning data into meaningful insights. I enjoy solving real-world problems using statistics, machine learning, and clean code.
+Welcome to my GitHub profile! I'm a data science enthusiast passionate about turning data into meaningful insights. I enjoy solving real-world problems using statistics, machine learning, deep learning, and clean code. I have also been exploring LangChain, LangGraph, and Agentic AI to build intelligent systems that can reason, plan, and interact autonomously.
 
 ---
 
@@ -14,6 +14,9 @@ Welcome to my GitHub profile! I'm a data science enthusiast passionate about tur
 ---
 
 ## 🛠️ Projects I'm Proud Of
+### 🎥 YouTube RAG Q&A with Google Gemini
+*Interactive app that answers questions about YouTube videos using their transcripts, powered by a RAG pipeline with FAISS embeddings and Google Gemini LLM.*
+
 ### 🔍 Skilled Manager Intervention Analysis
 *Causal inference using OLS regression to estimate impact of skilled management interventions.*
 
