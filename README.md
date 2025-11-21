@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Tahir Korma!
 
-Welcome to my GitHub profile! I'm a Data Science enthusiast passionate about turning data into meaningful insights. I enjoy solving real-world problems using Statistics, Machine Learning, Natural Language Processing, Deep Learning, Generative AI, and clean code. I have also been exploring LangChain, LangGraph, and Agentic AI to build intelligent systems that can reason, plan, and interact autonomously.
+Welcome to my GitHub profile! I'm a Data Science enthusiast passionate about turning data into meaningful insights. I enjoy solving real-world problems using core techniques in Statistics and Machine Learning, advanced methods in Natural Language Processing, Deep Learning, and Generative AI, and modern AI Frameworks such as LangChain, LangGraph, and Agentic AI. I focus on building intelligent systems that can reason, plan, and interact autonomously.
 
 ---
 
